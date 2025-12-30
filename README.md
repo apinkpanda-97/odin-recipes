@@ -1,1 +1,1 @@
-# odin-recipes
+This is my first project in the Odin Project. I have learned a lot about terminal commands, and now I feel a lot more comfortable using the terminal and Github. I also learned some basic HTML. 
